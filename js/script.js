@@ -10,3 +10,4 @@ function generateRandomColor() {
 }
 
 setInterval(() => (document.body.style.backgroundColor = generateRandomColor()), 1000);
+const error = "1
